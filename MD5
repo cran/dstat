@@ -1,0 +1,12 @@
+50d763ef26a4364c191583dfd0ddf8ad *DESCRIPTION
+efc92f6ef85b13a868aff86d27796bd0 *NAMESPACE
+6ab0cc81bf08ab7e5d39c5a2c61c3110 *R/amplify.R
+986fa132e3e6fb65fa8b34a79a5949f9 *R/dstat.R
+7c6a05dfa4b22d659a38825cd6a1a9ed *build/partial.rdb
+a2c82e85ebf36f356893e692d6003683 *data/dental.rda
+4b75d132cc119f6e5ba393fbae223d42 *data/lalive.rda
+0a7d94b107992f5b40ff67a1547faf43 *man/amplify.Rd
+df68f9aabd3766fe439df7d4cbb6aedf *man/dental.Rd
+b68e61dfefdc2f9d10070dbd415126f3 *man/dstat-package.Rd
+a09363c7ad853cf611e0b37e1c646e6f *man/dstat.Rd
+f4c71a39c007ced48f618b535513228d *man/lalive.Rd
